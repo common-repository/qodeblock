@@ -1,0 +1,16 @@
+# Ignore everything
+vendor/*
+assets/node_modules/
+assets/scss/
+assets/gulpfile.js
+assets/package.json
+assets/package-lock.json
+.DS_Store
+
+
+
+# But not these files...
+
+/.idea/
+/composer.phar
+/php.ini
